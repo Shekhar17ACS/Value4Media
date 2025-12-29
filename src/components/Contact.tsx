@@ -11,12 +11,12 @@ export default function Contact() {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
+      value: '+91 98765 43210',
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Noida, India',
     },
   ];
 
